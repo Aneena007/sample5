@@ -8,6 +8,15 @@ namespace CRUDUsingMVC.Models
 {
     public class EmpModel
     {
+
+
+
+
+
+
+
+
+
         [Display(Name ="id")]
         public int Empid { get; set; }
 
